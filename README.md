@@ -8,6 +8,35 @@ Automates cutting trees in RCU using AutoHotkey — gathers resources and farms 
 > This Macro is on a hiatus/hold status for now - this version works, but may have issues that won't be fixed.
 ---
 
+
+
+## Cutting Route:
+```
++---------------------------------------------+
+|                [4]                           |
+|                 ↑     ↘      [6]   →   ↘     |
+|      [2]   →   [3]     [5] ↗             [7] | 
+|       ↑                                   ↓  |
+|      [1].-------------------------- .        |
+|      /    🥚                         |   ↓  |
+|     |  🪧       .---------.          |      |   
+|     |           | FOUNTAIN |    🍄   |   ↓  |
+|     |           '----------'          |      |
+|      \                               /    ↓  |
+|        * ------------------------- *         |
+|                                    [9]  [8]  |
+|                                      ↘       |
+|                                         [10] |
+|                            [12] ← [11] ↙     |
++---------------------------------------------+
+
+```
+
+## Tree Cutting Yields:
+* 720 - 996 Trees Cut per Hour
+* 7.2k - 9.9k Mastery XP per Hour
+
+
 ## Hotkeys
 
 | Hotkey | Action | Notes |
