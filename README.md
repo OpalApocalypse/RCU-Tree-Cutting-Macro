@@ -4,7 +4,8 @@ Automates cutting trees in RCU using AutoHotkey — gathers resources and farms 
 
 ---
 
-> [!WARNING] This Macro is on a hiatus/hold status for now - this version works, but may have issues that won't be fixed.
+> [!WARNING] 
+> This Macro is on a hiatus/hold status for now - this version works, but may have issues that won't be fixed.
 ---
 
 ## Hotkeys
